@@ -4,7 +4,7 @@
 
 **本项目为非官方、独立的第三方作品，仅供技术学习与研究之用。**
 
-1. **无隶属关系。** 本项目与新零帮、xlbsoft（西陇软件）及其任何关联公司**没有任何隶属、授权、合作或背书关系**。"新零帮"及相关名称、标识、商标归其各自权利人所有，本项目仅在描述兼容性时按事实引用。
+1. **无隶属关系。** 本项目与新零帮 / xlbsoft（软件权利方：南京众丞信息科技有限公司）及其任何关联公司**没有任何隶属、授权、合作或背书关系**。"新零帮"及相关名称、标识、商标归其各自权利人所有，本项目仅在描述兼容性时按事实引用。
 
 2. **逆向来源。** 项目所依据的接口信息通过对官方前端 JavaScript 的静态分析与只读实测整理而来，仅用于学习交流。仓库**不包含**任何官方源代码、私有密钥或真实账号凭据（文档中的账号、密码、client_secret 等已做占位符脱敏处理）。
 
@@ -20,7 +20,7 @@
 
 **This is an unofficial, independent third-party project intended solely for technical study and research.**
 
-- **Not affiliated** with, authorized, sponsored, or endorsed by Xinlingbang / xlbsoft or any of its affiliates. All product names, logos, and trademarks are the property of their respective owners and are referenced only descriptively.
+- **Not affiliated** with, authorized, sponsored, or endorsed by Xinlingbang / xlbsoft (software owned by Nanjing Zhongcheng Information Technology Co., Ltd.) or any of its affiliates. All product names, logos, and trademarks are the property of their respective owners and are referenced only descriptively.
 - Interface details were derived from static analysis of the official web front-end and read-only observation. This repository contains **no official source code, private keys, or real credentials** (accounts, passwords, and the client secret in the docs are redacted with placeholders).
 - The client connects to a **live production system**. Write actions (audit, void, delete, stock-count completion, etc.) irreversibly modify real data. **Use at your own risk.**
 - Only operate on accounts and data you own or are **explicitly authorized** to access, in compliance with the target system's terms of service and applicable law.
